@@ -1,0 +1,49 @@
+Structure
+Commands(ng serve, npm i , ng g c newapp, ng new myapp......)
+creating components
+routing
+
+
+lazyloading
+cummunicating between tabs
+
+
+
+ng new myapp(create new project)
+ng serve (run)
+ng g c sample(create new component)
+npm i(import packages)
+ng config(configuration)
+crlt+c
+cls(kill)
+
+
+
+cd ../..
+F:
+cd vs
+cd dir
+cd newangular code
+
+To do:
+https://angular.io/guide/architecture-components
+https://angular.io/guide/pipes
+
+
+doubts: *ngIf, *ngFor,
+selectedHero?: Hero;
+  onSelect(hero: Hero): void {
+  this.selectedHero = hero;
+  }
+
+
+
+
+
+
+
+notes:
+[(ngModel)] is Angular's two-way data binding syntax.
+
+Here it binds the hero.name property to the HTML textbox so that data can flow in both directions: from the hero.name property to the textbox, and from the textbox back to the hero.name.
+
